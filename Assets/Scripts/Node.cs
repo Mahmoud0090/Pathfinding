@@ -6,7 +6,7 @@ using UnityEngine;
 public enum NodeType
 {
     Open = 0,
-    Close = 1
+    Blocked = 1
 }
 public class Node
 {
